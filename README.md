@@ -16,21 +16,6 @@ REST API для работы с балансом кошельков пользо
 - миграции базы данных;
 - автоматические API и concurrency-тесты.
 
-## Стек
-
-- Python 3.13
-- FastAPI
-- PostgreSQL 17
-- SQLAlchemy 2 Async
-- asyncpg
-- Alembic
-- Pydantic
-- pytest
-- HTTPX
-- Ruff
-- Docker
-- Docker Compose
-
 ## Запуск
 
 Создать локальный файл окружения:
